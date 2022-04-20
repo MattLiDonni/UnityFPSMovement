@@ -11,8 +11,13 @@ Current features:
   -Simple camera controls with adjustable sensitivity
   
 Planned features (in order of priority):
+
   -Basic physics-based walking and jumping
+	
   -Sprinting
+	
   -Crouching
+	
   -Slow walking
+	
   -Tweaked for wall running/jumps if i'm feeling spicy (BIG MAYBE, but would be a seperate project)
